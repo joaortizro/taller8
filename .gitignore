@@ -1,0 +1,7 @@
+*.zip
+*Zone.Identifier
+*.pdf
+__pycache__/
+*.pyc
+.env
+env/
